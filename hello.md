@@ -11,4 +11,4 @@ git remove -v为查看当前git仓库绑定的远程仓库
 刚刚初始化的仓库不会有绑定但是从线上clone下来的仓库是一定有远程绑定的
 
 git init 将一个文件夹初始化为一个git仓库
-goodjob ggg
+goodjob gggwo
